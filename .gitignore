@@ -3,3 +3,7 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+# Environment and local config - DO NOT COMMIT
+.env
+.env.local
+config.local.cpp
